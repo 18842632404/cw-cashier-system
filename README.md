@@ -5,7 +5,7 @@
   chrome
 ## 运行方式
   1. 直接运行CwCashierSystemApplication.java类中的main方法。  
-  2. 使用java -jar xxx.jar 运行编译好的jar包。  
+  2. 使用java -jar xxx.jar 运行编译好的jar包，启动成功访问 http://127.0.0.1:8888。  
 ```
      java- jar cw-cashier-system-1.0.jar
 ```
